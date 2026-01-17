@@ -6,11 +6,11 @@ Sakura Private Server için geliştirilmiş, modern ve kullanıcı dostu hosts d
 
 ##  Özellikler
 
-*   ** Tek Tıkla Bağlantı**: Sakura sunucusuna bağlanmak için "Aktifleştir" butonuna basmanız yeterli.
-*   ** Güvenli Kapatma**: Uygulama kapatıldığında hosts dosyanız otomatik olarak orijinal haline döner.
-*   ** Premium Tasarım**: Göz yormayan, modern ve şık "Sakura Dark" teması.
-*   ** Dil Desteği**: Türkçe (TR) ve İngilizce (EN) dil seçenekleri.
-*   ** Yönetici İzni**: Hosts dosyasını güvenli bir şekilde değiştirmek için otomatik yetki yönetimi.
+*   **Tek Tıkla Bağlantı**: Sakura sunucusuna bağlanmak için "Aktifleştir" butonuna basmanız yeterli.
+*   **Güvenli Kapatma**: Uygulama kapatıldığında hosts dosyanız otomatik olarak orijinal haline döner.
+*   **Premium Tasarım**: Göz yormayan, modern ve şık "Sakura Dark" teması.
+*   **Dil Desteği**: Türkçe (TR) ve İngilizce (EN) dil seçenekleri.
+*   **Yönetici İzni**: Hosts dosyasını güvenli bir şekilde değiştirmek için otomatik yetki yönetimi.
 
 ##  Kurulum ve Kullanım
 
