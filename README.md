@@ -14,7 +14,7 @@ Sakura Private Server için geliştirilmiş, modern ve kullanıcı dostu hosts d
 
 ##  Kurulum ve Kullanım
 
-1.  **İndir**: [Releases](https://github.com/username/SakuraHost/releases) sayfasından son sürümü (`SakuraHost.exe`) indirin.
+1.  **İndir**: [Releases](https://github.com/Tarikdxd/SakuraHost/releases) sayfasından son sürümü (`SakuraHost.exe`) indirin.
 2.  **Çalıştır**: Uygulamayı yönetici olarak çalıştırın.
 3.  **Aktifleştir**: Sunucuya girmek için butonu açın.
 4.  **Kapat**: Oyundan çıkınca uygulamayı kapatın, her şey normale dönecektir.
@@ -39,7 +39,7 @@ A modern and user-friendly hosts file manager developed for the Sakura Private S
 
 ## Installation and Usage
 
-1. **Download**: Download the latest version (`SakuraHost.exe`) from the [Releases](https://github.com/username/SakuraHost/releases) page.
+1. **Download**: Download the latest version (`SakuraHost.exe`) from the [Releases](https://github.com/Tarikdxd/SakuraHost/releases) page.
 2. **Run**: Launch the application as an administrator.
 3. **Activate**: Toggle the button to enter the server.
 4. **Close**: When you exit the game, close the application and everything will return to normal.
